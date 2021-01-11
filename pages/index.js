@@ -12,6 +12,8 @@ export default function Home() {
         <Link href="/a" as="/b">
           <a>b</a>
         </Link>
+	  </li>
+	  <li>
         <Link href="/c">
           <a>c</a>
         </Link>
