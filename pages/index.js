@@ -12,6 +12,9 @@ export default function Home() {
         <Link href="/a" as="/b">
           <a>b</a>
         </Link>
+        <Link href="/c">
+          <a>c</a>
+        </Link>
       </li>
     </ul>
   )
